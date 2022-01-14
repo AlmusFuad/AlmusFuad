@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almusfuad
-- 👀 I’m interested in software fun
-- 🌱 I’m currently learning frontend design with FLutter as well HTML, CSS and javaScript
+- 👀 I’m interested in Technology Fun.
+- 🌱 Frontend design developer with FLutter as well HTML5, CSS3 and javaScript.
 - 💞️ I’m looking to collaborate on software firm.
 - 📫 How to reach me ? okay contact me: almusfuad@gmail.com
 

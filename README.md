@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @almusfuad
-- 👀 I’m interested in Technology Fun.
-- 🌱 Frontend design developer with FLutter as well HTML5, CSS3 and javaScript.
-- 💞️ I’m looking to collaborate on software firm.
-- 📫 How to reach me ? okay contact me: almusfuad@gmail.com
 
-<!---
-almusfuad/almusfuad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/md-almus-fuad-707714170/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://dev.to/almusfuad">
+    <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev.to Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17515572/md-almus-fuad">
+    <img src="https://img.shields.io/badge/StackOverFlow-orange?style=for-the-badge&logo=StackOverFlow&logoColor=white" alt="StackOverFlow Badge"/>
+  </a>
+</div>
+
+<h2>
+  Hey
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm MD ALMUS FUAD
+</h2>
+
+
+<div align = "center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <span> </span>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+
+
+
+
+
+

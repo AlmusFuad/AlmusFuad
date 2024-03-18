@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **almusfuad@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17yDFKxTIs6VXEMqApMjQoKvOrYE_nR84/view?usp=sharing](https://drive.google.com/file/d/17yDFKxTIs6VXEMqApMjQoKvOrYE_nR84/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17yDFKxTIs6VXEMqApMjQoKvOrYE_nR84/view?usp=sharing](https://drive.google.com/file/d/1ljAmbfGbLI6gLlW4Vm5jBSQ0inLUVjCY/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
